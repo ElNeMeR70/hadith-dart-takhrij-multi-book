@@ -1,0 +1,5 @@
+name: hadith_dart_takhrij_multi_book
+description: "Automated Hadith Takhrij Cross-Indexer Across Kutub Al-Sittah"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
